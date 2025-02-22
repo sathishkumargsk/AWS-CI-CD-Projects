@@ -1,0 +1,22 @@
+2025-02-22 00:19:29,528 - 97 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.106:5000
+2025-02-22 00:19:29,529 - 97 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-02-22 00:19:29,529 - 97 werkzeug - INFO -  * Restarting with stat
+2025-02-22 00:19:30,006 - 97 werkzeug - WARNING -  * Debugger is active!
+2025-02-22 00:19:30,013 - 97 werkzeug - INFO -  * Debugger PIN: 666-736-062
+2025-02-22 00:19:30,333 - 97 werkzeug - INFO - 127.0.0.1 - - [22/Feb/2025 00:19:30] "GET /predictdata HTTP/1.1" 200 -
+2025-02-22 00:19:33,544 - 97 werkzeug - INFO - 127.0.0.1 - - [22/Feb/2025 00:19:33] "GET /predictdata HTTP/1.1" 200 -
+2025-02-22 00:19:44,739 - 97 werkzeug - INFO - 127.0.0.1 - - [22/Feb/2025 00:19:44] "POST /predictdata HTTP/1.1" 200 -
+2025-02-22 00:20:25,878 - 97 werkzeug - INFO -  * Detected change in '/Users/sathish/mlproject/app.py', reloading
+2025-02-22 00:20:25,986 - 97 werkzeug - INFO -  * Restarting with stat
+2025-02-22 00:22:53,150 - 97 werkzeug - INFO -  * Restarting with stat
+2025-02-22 00:22:57,139 - 97 werkzeug - INFO -  * Restarting with stat
+2025-02-22 00:23:25,187 - 97 werkzeug - INFO -  * Restarting with stat
+2025-02-22 00:25:40,971 - 97 werkzeug - INFO -  * Restarting with stat
+2025-02-22 00:25:43,819 - 97 werkzeug - INFO -  * Restarting with stat
+2025-02-22 00:26:03,783 - 97 werkzeug - INFO -  * Restarting with stat
+2025-02-22 00:28:52,250 - 97 werkzeug - INFO -  * Restarting with stat
+2025-02-22 12:43:57,595 - 97 werkzeug - INFO -  * Restarting with stat
+2025-02-22 12:44:06,479 - 97 werkzeug - INFO -  * Restarting with stat

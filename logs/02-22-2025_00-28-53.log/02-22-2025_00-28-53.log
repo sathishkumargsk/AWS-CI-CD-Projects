@@ -1,0 +1,7 @@
+2025-02-22 00:28:53,102 - 97 werkzeug - WARNING -  * Debugger is active!
+2025-02-22 00:28:53,112 - 97 werkzeug - INFO -  * Debugger PIN: 666-736-062
+2025-02-22 00:28:58,619 - 97 werkzeug - INFO - 127.0.0.1 - - [22/Feb/2025 00:28:58] "GET /predictdata HTTP/1.1" 200 -
+2025-02-22 00:29:09,595 - 97 werkzeug - INFO - 127.0.0.1 - - [22/Feb/2025 00:29:09] "POST /predictdata HTTP/1.1" 200 -
+2025-02-22 00:29:12,761 - 97 werkzeug - INFO - 127.0.0.1 - - [22/Feb/2025 00:29:12] "GET /predictdata HTTP/1.1" 200 -
+2025-02-22 00:29:29,378 - 97 werkzeug - INFO - 127.0.0.1 - - [22/Feb/2025 00:29:29] "POST /predictdata HTTP/1.1" 200 -
+2025-02-22 12:43:57,456 - 97 werkzeug - INFO -  * Detected change in '/Users/sathish/mlproject/application.py', reloading
